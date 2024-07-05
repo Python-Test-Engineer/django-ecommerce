@@ -1,2 +1,4 @@
 admin
 password@2024
+
+Email verification sets active to True
